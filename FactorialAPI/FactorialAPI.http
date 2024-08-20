@@ -1,0 +1,6 @@
+@FactorialAPI_HostAddress = http://localhost:5170
+
+GET {{FactorialAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
